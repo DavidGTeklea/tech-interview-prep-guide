@@ -5,6 +5,7 @@
 ## Quick links
 
 * Open source crash course for system design: https://github.com/donnemartin/system-design-primer
+* Crash course on how to think through and tackle main system design patterns/technologies: https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction 
 
 ## 1. Recall the structure of a system design interview (~minutes)
 
