@@ -11,6 +11,9 @@ Other guides:
 * Open source, comprehensive guide for technical interviews: https://techinterviewhandbook.org/
 * LeetCode questions to practice in order of importance: https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score
 * A curated list of LeetCode questions organized by practiced skill: https://neetcode.io/
+* System design guide with clear framework for tackling problems: https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction 
+
+
 
 ## 1. Recall the structure of a technical interview (~hours)
 
